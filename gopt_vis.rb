@@ -1,4 +1,4 @@
-#!/home/saka0611/.rbenv/shims/ruby
+#!/usr/bin/ruby
 # -*- coding: utf-8 -*-
 require "gnuplot"
 require 'optparse'
